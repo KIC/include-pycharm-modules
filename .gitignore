@@ -5,3 +5,4 @@ __pycache__/
 *foo*/
 *log*
 *log*/
+/dist/
